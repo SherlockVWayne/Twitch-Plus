@@ -1,0 +1,6 @@
+com/twitchplus/entity/User$1.class
+com/twitchplus/servlet/ServletUtil.class
+com/twitchplus/entity/LoginRequestBody.class
+com/twitchplus/entity/User.class
+com/twitchplus/entity/User$Builder.class
+com/twitchplus/entity/LoginResponseBody.class
